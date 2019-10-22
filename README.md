@@ -1,0 +1,2 @@
+# periscope
+Simple pygame widgets
